@@ -1,0 +1,13 @@
+
+.card{
+    width: 75%;
+}
+
+.newsElement{
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.newsCard{
+    display: inline-block !important;
+}

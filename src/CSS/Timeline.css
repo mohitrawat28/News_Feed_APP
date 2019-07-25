@@ -1,0 +1,27 @@
+
+.NotLoaded{
+    justify-content: center;
+    line-height: 20em;
+}
+
+.News{
+    /* border: 5px solid bisque; */
+    margin: 25px 50px;
+}
+
+.Article{
+    border: 5px solid salmon;
+}
+
+.post{
+    /* border: 5px solid bisque; */
+    margin: 50px 50px;
+}
+
+
+.articleImg{
+    width: 50%;
+}
+.newsFeeds{
+    padding: 2.5rem;
+}
